@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![Profile badge](https://www.codewars.com/users/ptsgr/badges/large)](https://www.codewars.com/users/ptsgr)
 <!--
 **ptsgr/ptsgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
