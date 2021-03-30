@@ -1,7 +1,12 @@
-### Hi there 👋
+### Egor Pats (@ptsgr) 👋
+
 
 
 [![Profile badge](https://www.codewars.com/users/ptsgr/badges/large)](https://www.codewars.com/users/ptsgr)
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egorpats/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor.pats@gmail.com)
+
+
 <!--
 **ptsgr/ptsgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
